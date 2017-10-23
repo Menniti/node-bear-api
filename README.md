@@ -1,6 +1,8 @@
 # node-bear-api
 Today we'll be looking at creating a RESTful API using Node, Express 4 and its Router, and Mongoose to interact with a MongoDB instance. We will also be testing our API using Postman in Chrome.
-
+<div>
+<img height=300px width=500px src='https://rajeshkathiriya.com/img/portfolio/node-mongo-express.jpg' >
+</div>
 # Application
 
 Handle CRUD for an item (we're going to use bears) <br/>
